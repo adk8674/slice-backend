@@ -1,0 +1,5 @@
+{
+	"parent": "../storage",
+	"avatars": "../storage/avatars",
+	"serverIcons": "../storage/server-icons"
+}

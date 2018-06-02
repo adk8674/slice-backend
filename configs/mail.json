@@ -1,0 +1,13 @@
+{
+	"options": {
+		"host": "smtp.mailgun.org",
+		"secure": true,
+		"auth": {
+			"user": "postmaster@mail.discardapp.net",
+			"pass": "NO THANK YOU"
+		}
+	},
+	"defaults": {
+		"from": "\"Slice\" noreply@discardapp.net"
+	}
+}

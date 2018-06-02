@@ -1,0 +1,24 @@
+{
+	"name": "slice-backend",
+	"version": "1.0.0",
+	"description": "The backend API for Slice",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "matmen",
+	"private": true,
+	"dependencies": {
+		"bcrypt": "^1.0.3",
+		"body-parser": "^1.18.2",
+		"gm": "^1.23.1",
+		"nodemailer": "^4.4.1",
+		"pg": "^7.4.0",
+		"redis": "^2.8.0",
+		"ws": "^4.0.0"
+	},
+	"devDependencies": {
+		"docdash": "^0.4.0",
+		"jsdoc": "^3.5.5"
+	}
+}
